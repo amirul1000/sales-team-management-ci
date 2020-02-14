@@ -2,7 +2,7 @@
 
 
 
-Sales team management in CI
+Sales team management in Codeigniter
 ===========================
 Managing a sales team is no easy task. You have the potential to either make or break your sales reps.
 
