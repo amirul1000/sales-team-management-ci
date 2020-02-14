@@ -2,7 +2,7 @@
 
 
 
-Sales team management CI
+Sales team management in CI
 ===========================
 
 Youtube Tutorial : 
